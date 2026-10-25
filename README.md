@@ -74,7 +74,6 @@ Explore my repositories for projects, experiments, and implementations.
 ## 🤝 Connect With Me
 
 - **LinkedIn:** [Yagnang Vyas](https://www.linkedin.com/in/yagnang-vyas/)
-- **GitHub:** [ChakraCoder](https://github.com/ChakraCoder)
 
 ---
 
