@@ -11,42 +11,43 @@ I enjoy solving engineering problems, designing reliable systems, optimizing app
 ## 🛠️ Technical Skills
 
 ### Frontend Development
+
 - React.js, Next.js, JavaScript, TypeScript
 - HTML5, CSS3, Tailwind CSS, Bootstrap, Material UI
 - Redux, React Query
 
 ### Backend Development
+
 - Node.js, Express.js
 - PHP, Laravel
-- Python, FastAPI, Django, Flask
+- Python, FastAPI, Django
 - REST APIs, Authentication, API Integration
 
 ### Databases & Data Storage
+
 - **Relational:** MySQL, PostgreSQL, MariaDB, SQLite, Microsoft SQL Server, Oracle Database
-- **NoSQL:** MongoDB, Redis, Apache Cassandra, CouchDB, Amazon DynamoDB, Firebase Firestore
+- **NoSQL:** MongoDB, Redis, Amazon DynamoDB, Firebase Firestore
 - **Search & Analytics:** Elasticsearch, OpenSearch
 - **Cloud & Managed Databases:** Supabase, Neon, PlanetScale
 
 ### ORMs & Database Tools
-- **JavaScript / TypeScript:** Prisma, Drizzle ORM, Sequelize, TypeORM, Mongoose, Knex.js
-- **PHP:** Laravel Eloquent, Doctrine ORM
-- **Python:** SQLAlchemy, Django ORM, Peewee, Tortoise ORM
-- **Java:** Hibernate, Spring Data JPA
+
+- **JavaScript / TypeScript:** Prisma, Sequelize, TypeORM, Mongoose
 - **Database Tools:** MySQL Workbench, DBeaver, phpMyAdmin
 
 ### DevOps, Cloud & Infrastructure
+
 - Git, GitHub, Docker, Docker Compose
 - Linux, Ubuntu, Nginx
 - CI/CD, GitHub Actions
-- AWS, Microsoft Azure, Google Cloud Platform
 - Cloudflare, Object Storage, Environment Configuration
 
 ### Development & Integration Tools
+
 - Postman, Swagger / OpenAPI
 - npm, pnpm, Composer, pip
 - Vite, Webpack
 - Firebase, Webhooks, Third-Party API Integrations
-
 ---
 
 ## 💻 Engineering Focus
